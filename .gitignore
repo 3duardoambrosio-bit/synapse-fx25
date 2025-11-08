@@ -1,0 +1,13 @@
+@"
+synapse-supremo/
+outputs/
+backups/
+*.db
+.env
+.env.*
+**/__pycache__/
+*.pyc
+.vscode/
+fx25.egg-info/
+.pytest_cache/
+"@ | Out-File -Encoding ascii .gitignore

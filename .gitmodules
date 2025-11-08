@@ -1,0 +1,3 @@
+[submodule "synapse-supremo"]
+	path = synapse-supremo
+	url = https://github.com/3duardoambrosio-bit/synapse-supremo.git
