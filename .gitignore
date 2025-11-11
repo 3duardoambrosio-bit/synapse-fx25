@@ -11,3 +11,8 @@ backups/
 fx25.egg-info/
 .pytest_cache/
 "@ | Out-File -Encoding ascii .gitignore
+outputs/
+*.log
+.env
+.env.*
+__pycache__/
